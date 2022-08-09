@@ -1,0 +1,18 @@
+{"FirstName": "Sezim",
+	"LastName": "Osmonbaeva",
+	"Country": "Kyrgyzstan",
+	"City": "Bishkek",
+	"Born": 2004,
+	"Student": true,
+	"Parents": [{
+		"Child": 1,
+		"Mom": [{
+			"Name": "Cholpon",
+			"Age": "41"
+		}],
+		"Dad": [{
+			"Name": "Nurlan",
+			"Age": "41"
+		}]
+	}]
+}
